@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1757261554 source:d:\googledrive\uni\informatics\ivan_kucherov_ri-p51\lab1_2-2_ri-p51\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1757280475 source:d:\anton_ostapchuk_ri-p51\lab1_2-2_ao_ri-p51\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

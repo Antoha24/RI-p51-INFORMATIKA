@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756709415 source:c:\users\student\desktop\ivan_kucherov_ri-p51\lab1_1_ik51\main.c
+	<stdio.h>
+	<stdlib.h>
+
