@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1763974680 source:d:\КПІ 2025-2026\Інформатика\anton_ostapchuk_ri-p51\lab4_2_ri-p51\lab4_2_ri-p51\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"matrix_funcs.h"
+	"matrix_funcs.c"
+
+1763974680 d:\КПІ 2025-2026\Інформатика\anton_ostapchuk_ri-p51\lab4_2_ri-p51\lab4_2_ri-p51\matrix_funcs.h
+
+1763974680 d:\КПІ 2025-2026\Інформатика\anton_ostapchuk_ri-p51\lab4_2_ri-p51\lab4_2_ri-p51\matrix_funcs.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix_funcs.h"
+
