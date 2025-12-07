@@ -1,0 +1,10 @@
+MATHEMATICAL FUNCTION RESULTS
+Function: f(x) = 0.4*(x-100)^3 + 0.3*x^2 - 0.2*x + 200
+Start: 0.00, End: 10.00, Points: 0, Step: 0.50
+Group: RI-p51, Student: Anton Ostapchuk
+
+Table of values:
+Point No. |     x     |   f(x)   
+----------|-----------|----------
+
+Total points calculated: 0
